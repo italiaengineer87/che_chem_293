@@ -1,0 +1,14 @@
+What does the model achieve?
+- This model shows the relationship between current and voltage given a specific resistance.
+How should metrics be interpreted?
+-This model should be interpreted by showing a linear relationship between current and voltage
+What are appropriate use cases?
+-This use case is specific to when using a specific resistance of R = 200
+How is it implemented? 
+- It s implemented by applying a specific current with a resistance to give a specific voltage v= r*c
+It is okay to recognize limits of your expertise
+-Yes, 
+What are caveats/biases/concerns to its usage?
+- Only valid for when a resistance of 200 ohmns is used.
+How to interpret this specific result and advising action/next steps
+- This specific result shows a linear relationship between current and voltage, could be tested to see if it is valid given other resistances
